@@ -10,7 +10,8 @@ Things you may want to cover:
 
 * sqlite3 Version : 3.8.2
 
-* command :- rails db:migrate
-             rails server       //for running ruby app
+* rails db:migrate    //database fetch
+
+* rails server       //for running ruby app
 
  
