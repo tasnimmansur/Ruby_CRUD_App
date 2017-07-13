@@ -2,7 +2,7 @@
 
 Things you may want to cover:
 
-* git clone 
+* git clone https://github.com/tasnimmansur/Ruby_CRUD_App.git
 
 * Ruby version : 2.4.0p0
 
@@ -10,14 +10,7 @@ Things you may want to cover:
 
 * sqlite3 Version : 3.8.2
 
-
-
-* 
-
-* 
-
-* 
-
-* 
+* command :- rails db:migrate
+             rails server       //for running ruby app
 
  
